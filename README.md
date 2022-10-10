@@ -1,2 +1,2 @@
 # simple-responsive-web
-### HTML, CSS 실전 연습
+### 반응형 nav-bar 만들기
